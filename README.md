@@ -1,1 +1,1 @@
-# Vielleicht mache ich es so wie bei Busybox... #
+# Maybe I'll make it similar to BusyBox... #
